@@ -1,9 +1,8 @@
-# javascript_library
+# validation
 javascript validation library 
-/*
- * usage
- * 
- * 
+
+usage
+
    $(document).ready(function () {
       var csvuploadalert = validation.typeCheck({
                     id: 'csvupload',
